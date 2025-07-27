@@ -3,9 +3,6 @@
 Bienvenue sur mon portfolio GitHub Pages.  
 Je suis Natacha NJONGWA YEPNGA, Data Scientist, Analyste Quantitatif, spécialiste IA et modélisation du risque de crédit, avec 6 ans d’expérience dans des institutions financières de premier plan. Je suis également fondatrice de LDA Advisory et créatrice de la chaîne YouTube LeCoinStat.
 
-![Photo de Natacha NJONGWA YEPNGA](img/nny.jpg)
-
-
 ## À propos de moi
 
 - Diplômée de l’ENSAI (France) et de l’ISSEA (Cameroun)
