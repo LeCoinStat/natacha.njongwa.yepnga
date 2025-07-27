@@ -97,7 +97,7 @@ Je propose une formation complète, intensive et accessible pour maîtriser la d
 - **YouTube** : [LeCoinStat](https://www.youtube.com/c/LeCoinStat)
 - **LinkedIn** : [linkedin.com/in/natacha-njongwa-yepnga](https://www.linkedin.com/in/natacha-njongwa-yepnga)
 - **Newsletter** : [natacha-njongwa-yepnga.ck.page](https://natacha-njongwa-yepnga.ck.page)
-- **Email** : natacha.contact@email.com
+- **Email** : natacha.njongwa.yepnga@lda-advisory.com
 
 
 Merci pour votre visite.
