@@ -61,7 +61,7 @@ Depuis 6 ans, j’interviens sur des missions à fort enjeu dans le secteur banc
 - Résumé structuré d’articles scientifiques au format PDF  
 - Interface utilisateur développée avec Streamlit
 
-### [Modèle de scoring crédit explicable avec SHAP](https://github.com/natacha-njongwa-yepnga/scoring-credit-ml)
+### [Modèle de scoring crédit explicable avec SHAP](https://github.com/LeCoinStat/100JoursDeML)
 - Construction d’un modèle de scoring en Python (sklearn)  
 - Visualisation des variables explicatives via SHAP  
 - Interface de scoring simplifiée avec Streamlit
@@ -71,11 +71,28 @@ Depuis 6 ans, j’interviens sur des missions à fort enjeu dans le secteur banc
 - Mini-projet : gestionnaire de contacts  
 - Accessible à tous sans prérequis
 
-### [Bootcamp GENAI PRO](https://www.linkedin.com/posts/natacha-njongwa-yepnga)
+### [Bootcamp GENAI PRO](https://natacha-njongwa-yepnga.mykajabi.com/Bootcamp-ia)
 - Prompt engineering, agents IA, systèmes RAG  
 - Déploiement de projets IA end-to-end  
 - Ciblé pour un public professionnel intermédiaire à avancé
 
+### [Formation complète – Data Science avec Python](https://natacha-njongwa-yepnga.mykajabi.com/data-science-passez-de-zero-a-heros)
+Je propose une formation complète, intensive et accessible pour maîtriser la data science, de Python au machine learning, même si vous débutez.
+
+**Ce que vous apprendrez :**
+
+- **Module 1** : Fondamentaux de Python (types, boucles, fonctions, classes)
+- **Module 2** : Pandas, Numpy, SQL et APIs
+- **Module 3** : Statistiques descriptives, visualisation, exploration
+- **Module 4** : Feature engineering, outliers, sélection de variables
+- **Module 5** : Machine learning (régression, classification, XGBoost, CatBoost, etc.)
+- **Module 6** : Mise en production et industrialisation de modèles
+
+**Bonus inclus** :
+- Masterclasses en direct
+- Templates et scripts prêts à l’emploi
+- Accès à vie
+- Coaching et support sous 48h
 
 
 ## Liens essentiels
@@ -86,5 +103,10 @@ Depuis 6 ans, j’interviens sur des missions à fort enjeu dans le secteur banc
 - **Email** : natacha.contact@email.com
 
 
-Merci pour votre visite.  
-Ce portfolio reflète mon parcours, mes projets, et ma vision d’une data science rigoureuse, appliquée, et accessible.
+Merci pour votre visite.
+Ce portfolio reflète mon parcours, mes projets, et ma vision d’une data science rigoureuse, appliquée et accessible.
+
+Ma mission ?
+Aider plus d’un million de personnes à travers le monde à transformer leur vie et leur carrière grâce à la maîtrise de la data et de l’intelligence artificielle.
+
+Let’s go. 
