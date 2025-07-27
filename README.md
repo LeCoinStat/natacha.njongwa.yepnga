@@ -53,7 +53,7 @@ Depuis 6 ans, j’interviens sur des missions à fort enjeu dans le secteur banc
 
 ## Projets récents
 
-### [Résumé automatique de PDF avec IA générative](https://github.com/natacha-njongwa-yepnga/pdf-summarizer-langchain)
+### [Résumé automatique de PDF avec IA générative](https://github.com/LeCoinStat/30DaysGenerativeAI)
 - Utilisation de LangChain, GPT-4o et FAISS  
 - Résumé structuré d’articles scientifiques au format PDF  
 - Interface utilisateur développée avec Streamlit
