@@ -4,7 +4,7 @@ Bienvenue sur mon portfolio GitHub Pages.
 Je suis Natacha NJONGWA YEPNGA, Data Scientist, Analyste Quantitatif, spécialiste IA et modélisation du risque de crédit, avec 6 ans d’expérience dans des institutions financières de premier plan. Je suis également fondatrice de LDA Advisory et créatrice de la chaîne YouTube LeCoinStat.
 
 ![Photo de Natacha NJONGWA YEPNGA](img/nny.jpg)
----
+
 
 ## À propos de moi
 
@@ -14,7 +14,7 @@ Je suis Natacha NJONGWA YEPNGA, Data Scientist, Analyste Quantitatif, spécialis
 - Créatrice de contenu (56 000+ abonnés LinkedIn, 50 000+ abonnés YouTube)
 - Enseignante (ENSAI, bootcamps, formations professionnelles)
 
----
+
 
 ##  Ce que je fais (et ce que j’apporte)
 
@@ -26,7 +26,7 @@ Depuis 6 ans, j’interviens sur des missions à fort enjeu dans le secteur banc
 ✔ Supervision de backtests, discriminants, stability tests  
 ✔ Coaching d’équipes métiers & analysts  
 ✔ Formation d'étudiants et professionnels aux bases solides de la data science
---
+
 
 ## Expériences clés
 
@@ -52,7 +52,7 @@ Depuis 6 ans, j’interviens sur des missions à fort enjeu dans le secteur banc
 - Encadrement d’analystes juniors sur les modèles explicables  
 - Contribution à des formations ENSAI sur la modélisation réglementaire
 
----
+
 
 ## Projets récents
 
@@ -76,7 +76,7 @@ Depuis 6 ans, j’interviens sur des missions à fort enjeu dans le secteur banc
 - Déploiement de projets IA end-to-end  
 - Ciblé pour un public professionnel intermédiaire à avancé
 
----
+
 
 ## Liens essentiels
 
@@ -84,9 +84,6 @@ Depuis 6 ans, j’interviens sur des missions à fort enjeu dans le secteur banc
 - **LinkedIn** : [linkedin.com/in/natacha-njongwa-yepnga](https://www.linkedin.com/in/natacha-njongwa-yepnga)
 - **Newsletter** : [natacha-njongwa-yepnga.ck.page](https://natacha-njongwa-yepnga.ck.page)
 - **Email** : natacha.contact@email.com
-
----
-
 
 
 Merci pour votre visite.  
