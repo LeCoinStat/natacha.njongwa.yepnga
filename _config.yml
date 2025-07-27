@@ -1,0 +1,13 @@
+title: "Natacha NJONGWA YEPNGA – Portfolio"
+description: "Data Scientist | Analyste Quantitatif | Spécialiste IA et Modèles de Risque"
+theme: minima
+url: "https://natacha-njongwa-yepnga.github.io"
+baseurl: ""
+author: "Natacha NJONGWA YEPNGA"
+linkedin_username: natacha-njongwa-yepnga
+github_username: natacha-njongwa-yepnga
+youtube_url: "https://www.youtube.com/c/LeCoinStat"
+email: "natacha.contact@email.com"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
