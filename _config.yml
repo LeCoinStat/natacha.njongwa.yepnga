@@ -1,6 +1,6 @@
 title: "Natacha NJONGWA YEPNGA"
-logo: img/nny.jpg
-show_downloads: true
+description: "Portfolio Data Scientist – IA, Data Science, Formation"
 theme: jekyll-theme-cayman
-
-
+logo: img/nny.jpg
+show_downloads: false
+lang: fr
