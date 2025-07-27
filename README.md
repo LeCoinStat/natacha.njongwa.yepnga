@@ -1,4 +1,4 @@
-# Natacha NJONGWA YEPNGA – Portfolio professionnel
+# Natacha NJONGWA YEPNGA – Portfolio
 
 Bienvenue sur mon portfolio.  
 Je suis Natacha NJONGWA YEPNGA, Data Scientist, Analyste Quantitatif, spécialiste IA et modélisation du risque de crédit, avec 6 ans d’expérience dans des institutions financières de premier plan. Je suis également fondatrice de LDA Advisory et créatrice de la chaîne YouTube LeCoinStat.
