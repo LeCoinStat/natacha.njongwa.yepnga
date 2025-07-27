@@ -22,7 +22,7 @@ Depuis 6 ans, j’interviens sur des missions à fort enjeu dans le secteur banc
 ✔ Audits & réponses aux recommandations régulateurs (ACPR, BCE)  
 ✔ Supervision de backtests, discriminants, stability tests  
 ✔ Coaching d’équipes métiers & analysts  
-✔ Formation d'étudiants et professionnels aux bases solides de la data science
+✔ Formation professionnels aux bases solides de la data science
 
 
 ## Expériences clés
